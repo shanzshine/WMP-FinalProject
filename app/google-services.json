@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929690034524",
+    "project_id": "wmpp-431b0",
+    "storage_bucket": "wmpp-431b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929690034524:android:687aeb23def38f46c1e199",
+        "android_client_info": {
+          "package_name": "com.example.final_wmp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGRrUMCP_wywX9C74FXMabnIVzo3LXD5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
